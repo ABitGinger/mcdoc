@@ -1,8 +1,8 @@
 {
     "site_name": "姜的MC文档",
     "site_slogon": "帮你玩得一路顺风~ヾ(•ω•`)o",
-    "site_root_url": "/",
-    "site_domain": "mcdoc",
+    "site_root_url": "/mcdoc/",
+    "site_domain": "abitginger.github.io",
     "site_protocol": "https",
     "config_template_dir": "config",
     "source": "https://github.com/abitginger/mcdoc/blob/main",
