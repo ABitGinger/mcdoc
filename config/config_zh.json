@@ -11,7 +11,7 @@
         "items": [
              {
                  "url": "/get_started/zh/",
-                 "label": "",
+                 "label": "开始",
                  "position": "left"
              },
             {
@@ -24,13 +24,7 @@
                 "label": "github",
                 "target": "_blank",
                 "position": "right"
-            },
-             {
-                 "id": "language",
-                 "label": "",
-                 "position": "right",
-                 "type": "language"
-             }
+            }
         ]
     },
     "footer":{
