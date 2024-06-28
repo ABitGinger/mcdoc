@@ -1,30 +1,3 @@
-<!-- ---
-title: 文章标题
-keywords: 关键词1, 关键词2
-desc: 这里写文章简介
-date: 2022-09-01
----
-
-## 添加文章
-
-* 在本文件所在目录创建 markdown 以  `.md` 结尾的文件，比如 `first.md`
-* 在 `sidebar.yaml` 中添加侧边栏链接
-
-```markdown
-items:
--   label: Brief
-    file: README.md
--   label: First
-    file: first.md
-```
-
-## 更多例子
-
-更多请访问: [teedoc.neucrack.com](https://teedoc.neucrack.com/) 或者 [teedoc.github.io](https://teedoc.github.io/)
-
-更多例子访问: [github.com/teedoc/teedoc.github.io](https://github.com/teedoc/teedoc.github.io) 或者 [https://github.com/teedoc/template](https://github.com/teedoc/template) , 或 [sipeed wiki](https://github.com/sipeed/sipeed_wiki)
-
- -->
 ---
 title: 开始
 keywords: 
@@ -32,16 +5,14 @@ desc: 加入我们&开始使用
 date: 2024-06-28
 ---
 
-## 一、加入我们的交流群（可选）
+## 加入我们的交流群（可选）
 
 * 取得帮助 / 进行交流 / 参与活动
 * 一些大型的文件会放在群文件里
-<br>
 * 群号：962212543
 * 或点击按钮加入：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=NtH50TrfoMrGtplKmQaP4a8_QGTUIZao&jump_from=webapi&authKey=vPwzW5xYN5vC9qzEIButVoL2cZ7Q3i3m8CfXAA5HtEa6MIj8J4SGTFWtfer4/TF5"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="WhatCraft👾" title="WhatCraft👾"></a>
-<img src="../assets/images/群二维码.png" alt="群二维码 " height="300px">
 
-## 二、开始使用文档
+## 开始使用文档
 
 * 在左侧可以选择需要的页面，右侧目录可以快速跳转到相应部分
 > 建议先仔细阅读，不懂的可以网络搜索，**不要看了一半就来问哦~**
