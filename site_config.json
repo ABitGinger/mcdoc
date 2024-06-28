@@ -1,11 +1,11 @@
 {
-    "site_name": "mysite",
-    "site_slogon": "",
+    "site_name": "姜的MC文档",
+    "site_slogon": "帮你玩得一路顺风",
     "site_root_url": "/mcdoc/",
-    "site_domain": "my_name.github.io",
+    "site_domain": "abitginger.github.io",
     "site_protocol": "https",
     "config_template_dir": "config",
-    "source": "https://github.com/my_name/my_name.github.io/blob/main",
+    "source": "https://github.com/abitginger/abitginger.github.io/blob/main",
     "route": {
         "docs": {
             "/get_started/zh/": "docs/get_started/zh"
@@ -83,7 +83,7 @@
     },
     "rebuild_changes_delay": 1,
     "robots":{
-        "User-agent": "*"
+        "User-agent": "* Disallow"
     },
     "layout_root_dir": "layout"
 }
