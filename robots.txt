@@ -1,2 +1,2 @@
 User-agent: * Disallow
-Sitemap: https://abitginger.github.io/sitemap.xml
+Sitemap: https://mcdoc/sitemap.xml
