@@ -11,7 +11,7 @@
         "items": [
              {
                  "url": "/get_started/zh/",
-                 "label": "",
+                 "label": "安装使用",
                  "position": "left"
              },
             {
@@ -27,7 +27,7 @@
             },
              {
                  "id": "language",
-                 "label": "",
+                 "label": "Language: ",
                  "position": "right",
                  "type": "language"
              }
@@ -72,12 +72,12 @@
         ],
         "bottom": [
              {
-                 "label": "",
+                 "label": "*ICP备********号",
                  "url": "https:beian.miit.gov.cn",
                  "target": "_blank"
              },
              {
-                 "label": "",
+                 "label": "*公网安备***********号",
                  "url": "http:www.beian.gov.cn/portal/registerSystemInfo?recordcode=****************",
                  "target": "_blank"
              }
