@@ -2,4 +2,4 @@ items:
 -   label: 简介
     file: README.md
 -   label:开始
-    "url": "/Begin/zh/Begin.md"
+    file: Begin/README.md
