@@ -1,3 +1,8 @@
 items:
 -   label: 开始
     file: README.md
+-   label: 姜的服务器
+-   label: Java长期生存服
+    items: 
+    -   label: 插件常用命令指南
+        file: Java长期生存服/插件常用命令指南.md
