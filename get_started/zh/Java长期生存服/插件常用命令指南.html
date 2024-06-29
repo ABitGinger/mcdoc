@@ -167,9 +167,49 @@ MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"]
 </div>
 <div class="tabset-text-container"><div class="tabset-text tabset-text-active" idx=0><p>内容一，可以使用 Markdown 语法</p>
 
-<pre class="language-kotlin"><code class="language-kotlin">  fun main() {
+<pre class="language-markdown"><code class="language-markdown">  fun main() {
       println(&quot;Hello World&quot;)
   }
+</code></pre>
+</div>
+<div class="tabset-text " idx=1><p>内容二，可以使用 Markdown 语法</p>
+
+<pre class="language-none"><code class="language-none">  public class Main {
+      public static void main(String[] args) {
+          System.out.println(&quot;Hello World&quot;);
+      }
+  }
+</code></pre>
+</div>
+</div>
+</div>
+</div>
+<div class="tabset tabset-id-tabset1">
+<div class="tabset-title">各插件常用指令</div>
+<div class="tabset-content"><div class="tabset-tab"><span class="tabset-tab-label tabset-tab-active" idx=0>EssentialsX</span>
+<span class="tabset-tab-label " idx=1>标签二</span>
+</div>
+<div class="tabset-text-container"><div class="tabset-text tabset-text-active" idx=0><p>包含 据点/家/趣味 等各种操作</p>
+
+<pre class="language-markdown"><code class="language-markdown">    | 常用操作                   | 需要权限                      | 指令用法                                |
+    |------------------------|---------------------------|-------------------------------------|
+    | 设置临时据点                | essentials.warp.overwrite.*  | /setwarp 玩家名                          |
+    | 删除临时据点                | essentials.delwarp         | /delwarp 玩家名                          |
+    | 传送临时据点                | essentials.warp            | /warp 玩家名                            |
+    | 传送到下线前的位置            | essentials.tpoffline       | /tpoffline 玩家名                        |
+    | 戴/脱帽子                  | essentials.hat            | /hat wear 手持方块（建筑类）&lt;br&gt;/hat remove |
+    | 回到死亡/tp前的位置         | essentials.back.ondeath   | /back                                    |
+    | 获取自己的位置              | essentials.getpos         | /getpos 玩家名（推荐和tppos合用）         |
+    | Tp类指令                  | essentials.tp             | /tp 玩家名（直接传送）                   |
+    |                          | essentials.tpahere        | /tpahere 玩家名（申请把玩家tp到自己的位置） |
+    |                          | essentials.tpaccept       | /tpaccept 接受传送（传送自己到别人）    |
+    |                          | essentials.tpdeny         | /tpdeny 拒绝                            |
+    |                          | essentials.tppos          | /tppos x y z 传送指定地点               |
+    | 设置自己的重生点             | essentials.setspawn       | /setspawn 自己的名字                    |
+    |                          | essentials.spawn          | /spawn 玩家名                           |
+    | 设置家                    | essentials.sethome        | /sethome 玩家名                          |
+    | 删除家                    | essentials.delhome        | /delhome 玩家名                          |
+    | 回到家                    | essentials.home           | /home 玩家名                             |
 </code></pre>
 </div>
 <div class="tabset-text " idx=1><p>内容二，可以使用 Markdown 语法</p>
@@ -184,128 +224,6 @@ MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"]
 </div>
 </div>
 </div>
-<div class="tabset tabset-id-tabset1">
-<div class="tabset-title">各插件常用指令</div>
-<div class="tabset-content"><div class="tabset-tab"><span class="tabset-tab-label tabset-tab-active" idx=0>EssentialsX</span>
-</div>
-<div class="tabset-text-container"><div class="tabset-text tabset-text-active" idx=0><p>包含 据点/家/趣味 等各种操作</p>
-
-<pre class="language-markdown"><code class="language-markdown">
-</code></pre>
-</div>
-</div>
-</div>
-</div>
-<table>
-<thead>
-<tr>
-  <th>常用操作</th>
-  <th>需要权限</th>
-  <th>指令用法</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>设置临时据点</td>
-  <td>essentials.warp.overwrite.*</td>
-  <td>/setwarp 玩家名</td>
-</tr>
-<tr>
-  <td>删除临时据点</td>
-  <td>essentials.delwarp</td>
-  <td>/delwarp 玩家名</td>
-</tr>
-<tr>
-  <td>传送临时据点</td>
-  <td>essentials.warp</td>
-  <td>/warp 玩家名</td>
-</tr>
-<tr>
-  <td>传送到下线前的位置</td>
-  <td>essentials.tpoffline</td>
-  <td>/tpoffline 玩家名</td>
-</tr>
-<tr>
-  <td>戴/脱帽子</td>
-  <td>essentials.hat</td>
-  <td>/hat wear 手持方块（建筑类）<br>/hat remove</td>
-</tr>
-<tr>
-  <td>回到死亡/tp前的位置</td>
-  <td>essentials.back.ondeath</td>
-  <td>/back</td>
-</tr>
-<tr>
-  <td>获取自己的位置</td>
-  <td>essentials.getpos</td>
-  <td>/getpos 玩家名（推荐和tppos合用）</td>
-</tr>
-<tr>
-  <td>Tp类指令</td>
-  <td>essentials.tp</td>
-  <td>/tp 玩家名（直接传送）</td>
-</tr>
-<tr>
-  <td></td>
-  <td>essentials.tpahere</td>
-  <td>/tpahere 玩家名（申请把玩家tp到自己的位置）</td>
-</tr>
-<tr>
-  <td></td>
-  <td>essentials.tpaccept</td>
-  <td>/tpaccept 接受传送（传送自己到别人）</td>
-</tr>
-<tr>
-  <td></td>
-  <td>essentials.tpdeny</td>
-  <td>/tpdeny 拒绝</td>
-</tr>
-<tr>
-  <td></td>
-  <td>essentials.tppos</td>
-  <td>/tppos x y z 传送指定地点</td>
-</tr>
-<tr>
-  <td>设置自己的重生点</td>
-  <td>essentials.setspawn</td>
-  <td>/setspawn 自己的名字</td>
-</tr>
-<tr>
-  <td></td>
-  <td>essentials.spawn</td>
-  <td>/spawn 玩家名</td>
-</tr>
-<tr>
-  <td>设置家</td>
-  <td>essentials.sethome</td>
-  <td>/sethome 玩家名</td>
-</tr>
-<tr>
-  <td>删除家</td>
-  <td>essentials.delhome</td>
-  <td>/delhome 玩家名</td>
-</tr>
-<tr>
-  <td>回到家</td>
-  <td>essentials.home</td>
-  <td>/home 玩家名</td>
-</tr>
-</tbody>
-</table>
-
-<pre class="language-none"><code class="language-none">```
-
-## 标签二
-
-内容二，可以使用 Markdown 语法
-```java
-  public class Main {
-      public static void main(String[] args) {
-          System.out.println(&quot;Hello World&quot;);
-      }
-  }
-```
-</code></pre>
 
                         
                     </div>
