@@ -159,32 +159,31 @@ MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"]
                     <div id="article_content">
                         
                             <h2 id="%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E5%8F%8A%E5%85%B6%E6%89%80%E9%9C%80%E6%9D%83%E9%99%90%EF%BC%9A">常用命令及其所需权限：</h2>
-<p>效果：<br />
-（注意这里需要空一行）<br />
-.. tabset::标签页标题（可选）<br />
-    :id: tabset1<br />
-    (注意必须和上面的 tabset 对齐或者更多空格)<br />
-    ## 标签一</p>
+<p>效果：</p>
+<div class="tabset tabset-id-tabset1">
+<div class="tabset-title">标签页标题（可选）</div>
+<div class="tabset-content"><div class="tabset-tab"><span class="tabset-tab-label tabset-tab-active" idx=0>标签一</span>
+<span class="tabset-tab-label " idx=1>标签二</span>
+</div>
+<div class="tabset-text-container"><div class="tabset-text tabset-text-active" idx=0><p>内容一，可以使用 Markdown 语法</p>
 
-<pre class="language-none"><code class="language-none">内容一，可以使用 Markdown 语法
-```kotlin
-  fun main() {
+<pre class="language-kotlin"><code class="language-kotlin">  fun main() {
       println(&quot;Hello World&quot;)
   }
-```
+</code></pre>
+</div>
+<div class="tabset-text " idx=1><p>内容二，可以使用 Markdown 语法</p>
 
-## 标签二
-
-内容二，可以使用 Markdown 语法
-```java
-  public class Main {
+<pre class="language-java"><code class="language-java">  public class Main {
       public static void main(String[] args) {
           System.out.println(&quot;Hello World&quot;);
       }
   }
-```
-
 </code></pre>
+</div>
+</div>
+</div>
+</div>
 <div class="tabset tabset-id-tabset1">
 <div class="tabset-title">各插件常用指令</div>
 <div class="tabset-content"><div class="tabset-tab"><span class="tabset-tab-label tabset-tab-active" idx=0>EssentialsX</span>
