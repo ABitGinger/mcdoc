@@ -17,6 +17,7 @@ items:
 -   label: 姜的服务器
 -   label: Java版长期生存服
     file: JavaServer\intro.md
+    collapsed: false
     items: 
     -   label: 常用插件操作指南
         file: JavaServer/operations.md
