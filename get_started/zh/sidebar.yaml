@@ -1,10 +1,26 @@
 items:
 -   label: 开始
     file: README.md
--   label: 姜的服务器
--   label: Java长期生存服
+-   label: 【必读】基础
+    file: basic.md
+-   label: 开始游戏
+    collapsed: false
     items: 
-    -   label: 【推荐】常用插件操作指南
-        file: Java长期生存服/常用插件操作指南.md
-    -   label: 【推荐】常用插件命令指南
-        file: Java长期生存服/常用插件命令指南.md
+    -   label: 使用启动器
+        file: Startgame/Launcher.md
+    -   label: 加入服务器
+        file: Startgame\Server.md
+    -   label: 加载资源包/光影
+        file: Startgame\ResourcePack.md
+    -   label: 游玩基岩版 & 购买正版
+        file: Startgame\Bedrock.md
+-   label: 姜的服务器
+-   label: Java版长期生存服
+    file: JavaServer\intro.md
+    items: 
+    -   label: 常用插件操作指南
+        file: JavaServer/operations.md
+    -   label: 常用插件命令指南
+        file: JavaServer/commands.md
+-   label: 短期综合服务器
+    file: short-term\intro.md
