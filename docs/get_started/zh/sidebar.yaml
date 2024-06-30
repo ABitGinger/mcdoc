@@ -4,5 +4,7 @@ items:
 -   label: 姜的服务器
 -   label: Java长期生存服
     items: 
-    -   label: 插件常用命令指南
-        file: Java长期生存服/插件常用命令指南.md
+    -   label: 【推荐】常用插件操作指南
+        file: Java长期生存服/常用插件操作指南.md
+    -   label: 【推荐】常用插件命令指南
+        file: Java长期生存服/常用插件命令指南.md
