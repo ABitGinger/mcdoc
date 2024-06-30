@@ -16,9 +16,10 @@ items:
         file: Startgame\Bedrock.md
 -   label: 姜的服务器
 -   label: Java版长期生存服
-    file: JavaServer\intro.md
     collapsed: false
     items: 
+    -   label: 介绍
+        file: JavaServer\intro.md
     -   label: 常用插件操作指南
         file: JavaServer/operations.md
     -   label: 常用插件命令指南
