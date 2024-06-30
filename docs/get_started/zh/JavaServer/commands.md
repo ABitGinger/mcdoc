@@ -17,15 +17,15 @@ date: 2024-06-29
 
 |常用操作|需要权限|指令用法|括号内替换内容|
 |---|---|---|---|
-|切换连锁模式|默认|/veinminer pattern [pattern]|[pattern]: default, tunnel（隧道式）, staircase_up（向上楼梯）, staircase_down（向下楼梯）|
-|切换对某工具是否启用连锁|默认|/veinminer toggle [tool]|[tool]: 工具名称|
-|添加连锁的方块|op|/blocklist [category] add [block]|[category]: 类别, [block]: 方块ID|
-|移除连锁的方块|op|/blocklist [category] remove [block]|[category]: 类别, [block]: 方块ID|
-|列出启用连锁的方块|op|/blocklist [category] list|[category]: 类别|
-|添加连锁的工具|op|/toollist [category] add [item]|[category]: 类别, [item]: 物品ID|
-|移除连锁的工具|op|/toollist [category] remove [item]|[category]: 类别, [item]: 物品ID|
-|列出启用连锁的工具列表|op|/toollist [category] list|[category]: 类别|
-|重载配置|op|/veinminer reload|无|
+|切换连锁模式|veinminer.pattern.*|/veinminer pattern [pattern]|[pattern]: default, tunnel（隧道式）, staircase_up（向上楼梯）, staircase_down（向下楼梯）|
+|切换对某工具是否启用连锁|veinminer.command.*|/veinminer toggle [tool]|[tool]: 工具名称|
+|添加连锁的方块|veinminer.command.*|/blocklist [category] add [block]|[category]: 类别, [block]: 方块ID|
+|移除连锁的方块|veinminer.command.*|/blocklist [category] remove [block]|[category]: 类别, [block]: 方块ID|
+|列出启用连锁的方块|veinminer.command.*|/blocklist [category] list|[category]: 类别|
+|添加连锁的工具|veinminer.command.*|/toollist [category] add [item]|[category]: 类别, [item]: 物品ID|
+|移除连锁的工具|veinminer.command.*|/toollist [category] remove [item]|[category]: 类别, [item]: 物品ID|
+|列出启用连锁的工具列表|veinminer.command.*|/toollist [category] list|[category]: 类别|
+|重载配置|veinminer.command.*|/veinminer reload|无|
 
 [点击阅读完整原文档](https://www.spigotmc.org/resources/veinminer.12038/)
 
