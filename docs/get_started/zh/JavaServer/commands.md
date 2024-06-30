@@ -51,26 +51,27 @@ date: 2024-06-29
 
 ## EssentialsX
 包含 传送/据点 等各种操作！
-| 常用操作                   | 需要权限                      | 指令用法                                |
-|------------------------|---------------------------|-------------------------------------|
+
+| 常用操作| 需要权限 | 指令用法|
+|-----|------|--------|
 |插件帮助|essentials.help|/help 或 /ehelp|
-| 回到死亡前的位置         | essentials.back.ondeath   | /back                                    |
-| Tp类指令                  | essentials.tp             | /tp 玩家名（直接传送）                   |
-|                          | essentials.tpahere        | /tpahere 玩家名（申请把玩家tp到自己的位置） |
-|                          | essentials.tpaccept       | /tpaccept 接受传送（传送自己到别人）    |
-|                          | essentials.tpdeny         | /tpdeny 拒绝                            |
-|                          | essentials.tppos          | /tppos x y z 传送指定地点               |
-| 获取自己的位置              | essentials.getpos         | /getpos 玩家名（推荐和tppos合用）         |
-| 设置临时据点                | essentials.warp.overwrite  | /setwarp 玩家名                          |
-| 删除临时据点                | essentials.delwarp         | /delwarp 玩家名                          |
-| 传送临时据点                | essentials.warp            | /warp 玩家名                            |
-| 设置家                    | essentials.sethome        | /sethome 玩家名                          |
-| 删除家                    | essentials.delhome        | /delhome 玩家名                          |
-| 回到家                    | essentials.home           | /home 玩家名                             |
-| 戴/脱帽子                  | essentials.hat            | /hat wear 手持方块（建筑类）<br>/hat remove |
-| 设置自己的重生点             | essentials.setspawn       | /setspawn 自己的名字                    |
-|                          | essentials.spawn          | /spawn 玩家名                           |
-| 传送到玩家下线前的位置            | essentials.tpoffline       | /tpoffline 玩家名                        |
+| 回到死亡前的位置 | essentials.back.ondeath | /back|
+| Tp类指令| essentials.tp | /tp 玩家名（直接传送） |
+|| essentials.tpahere| /tpahere 玩家名（申请把玩家tp到自己的位置） |
+|| essentials.tpaccept | /tpaccept 接受传送（传送自己到别人）|
+|| essentials.tpdeny | /tpdeny 拒绝|
+|| essentials.tppos| /tppos x y z 传送指定地点 |
+| 获取自己的位置| essentials.getpos | /getpos 玩家名（推荐和tppos合用） |
+| 设置临时据点| essentials.warp.overwrite| /setwarp 玩家名|
+| 删除临时据点| essentials.delwarp | /delwarp 玩家名|
+| 传送临时据点| essentials.warp| /warp 玩家名|
+| 设置家| essentials.sethome| /sethome 玩家名|
+| 删除家| essentials.delhome| /delhome 玩家名|
+| 回到家| essentials.home | /home 玩家名 |
+| 戴/脱帽子| essentials.hat| /hat wear 手持方块（建筑类）<br>/hat remove |
+| 设置自己的重生点 | essentials.setspawn | /setspawn 自己的名字|
+|| essentials.spawn| /spawn 玩家名 |
+| 传送到玩家下线前的位置| essentials.tpoffline | /tpoffline 玩家名|
 
 [点击阅读完整原文档](https://essentialsx.net/wiki/Home.html)（可能需要翻墙）
 

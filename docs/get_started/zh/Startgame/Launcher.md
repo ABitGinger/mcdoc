@@ -71,7 +71,7 @@ title: 使用启动器
 推荐Mod获取平台：[MC百科](https://www.mcmod.cn/)（建议从里面找，在详情页跳转到 Forge 等平台下载）
 
 .. tabset::
-    :id: tabset1
+    :id: tabset2
 
     ## 自选安装
 
