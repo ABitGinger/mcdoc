@@ -69,8 +69,7 @@ date: 2024-06-29
 | 删除家| essentials.delhome| /delhome 玩家名|
 | 回到家| essentials.home | /home 玩家名 |
 | 戴/脱帽子| essentials.hat| /hat wear 手持方块（建筑类）<br>/hat remove |
-| 设置自己的重生点 | essentials.setspawn | /setspawn 自己的名字|
-|| essentials.spawn| /spawn 玩家名 |
+|传送到重生点| essentials.spawn| /spawn 玩家名 |
 | 传送到玩家下线前的位置| essentials.tpoffline | /tpoffline 玩家名|
 
 [点击阅读完整原文档](https://essentialsx.net/wiki/Home.html)（可能需要翻墙）
