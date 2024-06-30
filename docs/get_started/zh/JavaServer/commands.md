@@ -73,3 +73,5 @@ date: 2024-06-29
 | 传送到玩家下线前的位置            | essentials.tpoffline       | /tpoffline 玩家名                        |
 
 [点击阅读完整原文档](https://essentialsx.net/wiki/Home.html)（可能需要翻墙）
+
+感谢 @沐雨凝风Mcr 帮忙挑选整理~
