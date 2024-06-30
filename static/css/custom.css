@@ -10,6 +10,13 @@
     font-family: sans-serif;
     color: #4caf7d;
 }
+
+@media (max-width: 768px) {
+    #home_page h1 {
+        font-size: 3em; /* 根据需要调整这个值 */
+    }
+}
+
 #home_page h3 {
     width: 100%;
     text-align: center;
