@@ -20,7 +20,7 @@
                 "position": "left"
             },
             {
-                "url": "https:github.com/ABitGinger/mcdoc",
+                "url": "https://github.com/ABitGinger/mcdoc",
                 "label": "github",
                 "target": "_blank",
                 "position": "right"
@@ -34,7 +34,7 @@
                 "items": [
                     {
                         "label": "使用 teedoc 构建",
-                        "url": "https:teedoc.neucrack.com",
+                        "url": "https://teedoc.neucrack.com",
                         "target": "_blank"
                     },
                     {
@@ -48,17 +48,17 @@
                 "items": [
                     {
                         "label": "github",
-                        "url": "https:github.com/neutree/teedoc",
+                        "url": "https://github.com/neutree/teedoc",
                         "target": "_blank"
                     },
                     {
                         "label": "gitee",
-                        "url": "https:gitee.com/teedoc/teedoc",
+                        "url": "https://gitee.com/teedoc/teedoc",
                         "target": "_blank"
                     },
                     {
                         "label": "本网站源文件",
-                        "url": "https:github.com/ABitGinger/mcdoc",
+                        "url": "https://github.com/ABitGinger/mcdoc",
                         "target": "_blank"
                     }
                 ]
@@ -67,12 +67,12 @@
         "bottom": [
              {
                  "label": "",
-                 "url": "https:beian.miit.gov.cn",
+                 "url": "https://beian.miit.gov.cn",
                  "target": "_blank"
              },
              {
                  "label": "",
-                 "url": "http:www.beian.gov.cn/portal/registerSystemInfo?recordcode=****************",
+                 "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=****************",
                  "target": "_blank"
              }
         ]
