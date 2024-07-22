@@ -14,7 +14,7 @@ Bilibili大概是~~MCBBS倒闭后~~最大的中文Minecraft社区了，你几乎
 * **游戏知识性问题先查Wiki**
 
 如何使用Wiki：
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1106321699&bvid=BV1uw4m1k76p&cid=1620135467&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+    <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=1106321699&bvid=BV1uw4m1k76p&cid=1620135467&p=1&high_quality=1&as_wide=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="600></iframe>
 
 ## 为什么不推荐中国版我的世界
 中国版游戏本身免费，但是游戏更新相对国际版通常会落后*两三年*，并且限制较多，几乎不能使用外部的资源，只能通过网易自带的商店购买；不能加入外部服务器，只能在网易租赁服务器或加入网易合作服务器。
