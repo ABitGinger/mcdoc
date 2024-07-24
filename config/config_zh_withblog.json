@@ -15,6 +15,11 @@
                  "position": "left"
              },
             {
+                "url": "https://abitginger.top/blog/",
+                "label": "博客",
+                "position": "left"
+            },
+            {
                 "url": "https://github.com/ABitGinger/mcdoc",
                 "label": "github",
                 "target": "_blank",
