@@ -9,11 +9,16 @@
         },
         "home_url": "/",
         "items": [
-             {
-                 "url": "/get_started/zh/",
-                 "label": "开始",
-                 "position": "left"
-             },
+            {
+                "url": "/get_started/zh/",
+                "label": "开始",
+                "position": "left"
+            },
+            {
+                "url": "https://abitginger.top",
+                "label": "首页",
+                "position": "right"
+            },
             {
                 "url": "https://github.com/ABitGinger/mcdoc",
                 "label": "github",
