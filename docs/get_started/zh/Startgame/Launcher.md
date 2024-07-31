@@ -9,7 +9,7 @@ title: 使用启动器
 ## 下载启动器
 
 推荐启动器（均为作者官方最新版下载渠道，点击名称即可跳转）：
-* [PCL2](https://afdian.net/p/0164034c016c11ebafcb52540025c377) 【推荐】作者活跃，更新勤快，下载方便，界面简洁活泼
+* [PCL2](https://afdian.com/p/0164034c016c11ebafcb52540025c377) 【推荐】作者活跃，更新勤快，下载方便，界面简洁活泼
 * [HMCL](https://hmcl.huangyuhui.net/download/) 历史悠久，界面沉稳，切换账号方便（下载时选择Windows版）
 * [BakaXL](https://www.bakaxl.com/) 很新，很活泼，有社交系统，动画华丽
 
