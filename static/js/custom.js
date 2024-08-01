@@ -1,5 +1,5 @@
 document.getElementById('mapfs').addEventListener('click', function() {
-    var iframe = document.getElementById('myIframe');
+    var iframe = document.getElementById('map');
     if (iframe.requestFullscreen) {
         iframe.requestFullscreen();
     } else if (iframe.mozRequestFullScreen) { // Firefox
@@ -10,3 +10,9 @@ document.getElementById('mapfs').addEventListener('click', function() {
         iframe.msRequestFullscreen();
     }
 });
+
+//阻止http升到https
+document.addEventListener('DOMContentLoaded', function() {
+    var iframe = document.getElementById('map');
+    iframe.src = 'http://39.102.209.55:8123/';
+  });
