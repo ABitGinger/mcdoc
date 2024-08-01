@@ -21,7 +21,8 @@ items:
     -   label: 介绍
         file: JavaServer/intro.md
     -   label: 实时地图🗺
-        file: JavaServer/map.md
+        url: http://39.102.209.55:8123/
+        target: _blank
     -   label: 常用插件操作指南
         file: JavaServer/operations.md
     -   label: 常用插件命令指南
