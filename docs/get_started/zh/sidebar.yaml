@@ -9,20 +9,22 @@ items:
     -   label: 使用启动器
         file: Startgame/Launcher.md
     -   label: 加入服务器
-        file: Startgame\Server.md
+        file: Startgame/Server.md
     -   label: 加载资源包/光影
-        file: Startgame\ResourcePack.md
+        file: Startgame/ResourcePack.md
     -   label: 游玩基岩版 & 购买正版
-        file: Startgame\Bedrock.md
+        file: Startgame/Bedrock.md
 -   label: 姜的服务器
 -   label: Java版长期生存服
     collapsed: false
     items: 
     -   label: 介绍
-        file: JavaServer\intro.md
+        file: JavaServer/intro.md
+    -   label: 实时地图🗺
+        file: JavaServer/map.md
     -   label: 常用插件操作指南
         file: JavaServer/operations.md
     -   label: 常用插件命令指南
         file: JavaServer/commands.md
 -   label: 短期综合服务器
-    file: short-term\intro.md
+    file: short-term/intro.md
