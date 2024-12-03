@@ -42,9 +42,9 @@ title: 使用启动器
     1. 回到PCL启动器，左下方 版本设置 > 设置 > 往下翻 > 登录方式
     2. 选择第三方登录：`AuthlibInjector或LittleSkin`
     3. 填写：
-      认证服务器：https://skin.mualliance.ltd/api/yggdrasil
-      注册链接：https://skin.mualliance.ltd/auth/register
-      认证服务器名称：MUA
+      - 认证服务器：https://skin.mualliance.ltd/api/yggdrasil
+      - 注册链接：https://skin.mualliance.ltd/auth/register
+      - 认证服务器名称：MUA
     4. 左上角返回，登录你在MUA注册的账号即可
 
 ### 修改皮肤
