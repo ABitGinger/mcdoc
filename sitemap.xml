@@ -31,24 +31,6 @@
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://abitginger.github.io/mcdoc/get_started/zh/short-term/intro.html</loc>
-            <lastmod>2025-12-31</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>1.0</priority>
-        </url>
-        <url>
-            <loc>https://abitginger.github.io/mcdoc/get_started/zh/JavaServer/commands.html</loc>
-            <lastmod>2024-06-29</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>1.0</priority>
-        </url>
-        <url>
-            <loc>https://abitginger.github.io/mcdoc/get_started/zh/JavaServer/intro.html</loc>
-            <lastmod>2025-12-31</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>1.0</priority>
-        </url>
-        <url>
             <loc>https://abitginger.github.io/mcdoc/get_started/zh/JavaServer/operations.html</loc>
             <lastmod>2024-06-30</lastmod>
             <changefreq>weekly</changefreq>
@@ -68,6 +50,24 @@
         </url>
         <url>
             <loc>https://abitginger.github.io/mcdoc/get_started/zh/Startgame/ResourcePack.html</loc>
+            <lastmod>2025-12-31</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://abitginger.github.io/mcdoc/get_started/zh/short-term/intro.html</loc>
+            <lastmod>2025-12-31</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://abitginger.github.io/mcdoc/get_started/zh/JavaServer/commands.html</loc>
+            <lastmod>2024-06-29</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://abitginger.github.io/mcdoc/get_started/zh/JavaServer/intro.html</loc>
             <lastmod>2025-12-31</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
